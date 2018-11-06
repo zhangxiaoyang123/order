@@ -13,7 +13,7 @@
             <a class="navbar-brand">
                 <small>
                     <i class="icon-leaf"></i>
-                    张晓阳的家常菜
+                    张晓阳11的家常菜
                 </small>
             </a><!-- /.brand -->
         </div><!-- /.navbar-header -->
